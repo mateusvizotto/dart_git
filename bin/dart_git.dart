@@ -4,4 +4,5 @@ void main(List<String> arguments) {
   print('Hello world: ${dart_git.calculate()}!');
 }
 
-//! Alteração no arquivo
+//! Alteração no arq
+//! Outra alteração no arq
