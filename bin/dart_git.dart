@@ -4,3 +4,5 @@ void main(List<String> arguments) {
   print('Hello world: ${dart_git.calculate()}!');
   print('Testando feature1');
 }
+
+// Testando VSCode no GitHub
